@@ -6,7 +6,7 @@
 ## Мои навыки
 **Java, Spring, Maven, Postgres, GitHub**
 ## Мои проекты:
-- [Kanban](https://github.com/my_bogdan/java-kanban) - Приложение для организации совместной работы над задачами. Программа позволяет выполнять CRUD-операции над задачами. Сами задачи делятся на разные типы: общие, подзадачи и эпики.
+- [Kanban](https://github.com/mybogdan/java-kanban) - Приложение для организации совместной работы над задачами. Программа позволяет выполнять CRUD-операции над задачами. Сами задачи делятся на разные типы: общие, подзадачи и эпики.
 
 <!--
 **mybogdan/mybogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
