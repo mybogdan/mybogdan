@@ -1,4 +1,4 @@
-# 👋 Я Java-разработчик
+# 👋
 *Со мной можно связаться -*
 - [По почте @](bogdan.vaseev@gmail.com)
 - [В телеграм](https://t.me/my_bogdan)
